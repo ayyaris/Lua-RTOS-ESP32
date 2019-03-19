@@ -413,7 +413,7 @@
       "manufacturer": "m5stack",
       "brand": "",
       "type": "M5STACK",
-      "subtype": "",
+      "subtype": "OTA",
       "filesystem": "default",
       "usb_vid_pid": "10C4:EA60",
       "usb_port_exp": "",
